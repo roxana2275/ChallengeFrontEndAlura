@@ -1,0 +1,10 @@
+.formacion--icono--imagen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%; 
+    padding-bottom: 10px;
+    padding-left: 1rem;
+}
+
+

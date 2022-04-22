@@ -1,0 +1,31 @@
+.skills--conocimiento {  
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-end;
+    background: white;
+    width: 176px;
+    height: 174px;    
+    padding-bottom: 5px;
+    
+}
+
+@media screen and (max-width: 360px) {
+    .skills--conocimiento {
+    width: 156px;
+    height: 118px;
+    margin-bottom: 1rem;
+
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .skills--conocimiento{
+    width: 224px;
+    height: 118px;
+    margin-bottom: 1rem;
+    }
+}
+
+
+

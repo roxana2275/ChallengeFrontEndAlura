@@ -1,0 +1,14 @@
+.formacion {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 3.25rem;
+}
+
+@media screen and (max-width: 768px) {
+    .formacion{
+        justify-content: center;
+    }
+}

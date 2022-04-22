@@ -1,0 +1,19 @@
+.formulario {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background:#EAF2FD;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+@media screen and (max-width: 768px){
+    .formulario {
+        padding: 30px;
+        }
+}
+
+

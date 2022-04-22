@@ -1,0 +1,18 @@
+.proyectos--imagen {
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width: 768px) {
+    .proyectos--imagen{
+        width: 85%;
+        padding: 30px;
+        margin-bottom: 30px;
+        margin-right: 20px;
+        justify-content: center;
+    
+    }
+    
+}
+
+

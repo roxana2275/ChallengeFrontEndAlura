@@ -1,0 +1,10 @@
+.hobbies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color:#F5F5F5;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

@@ -1,0 +1,16 @@
+.sobre--mi--redes--sociales--lista {
+    text-decoration: none;
+    color:#464646;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    margin-right: 1.25rem;
+    margin-top: 1.875rem;
+}
+
+@media screen and (max-width: 768px) {
+    .sobre--mi--redes--sociales--lista{
+    margin-left: 0rem;
+    margin-top: 0rem;
+    padding-top: 0rem;
+    }
+}

@@ -1,0 +1,12 @@
+.formulario--titulo{
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    padding-right: 2    0px;
+}
+
+@media screen and (max-width: 768px) {
+    .formulario--titulo{
+    font-size: 22px;
+    }
+}

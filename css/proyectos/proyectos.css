@@ -1,0 +1,17 @@
+.proyectos {
+    padding-right: 32px;
+    padding-left: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+@media screen and (max-width: 768px) {
+    .proyectos {
+        display: flex;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,10 @@
+.formulario--input--padron{
+    border: 0;
+    text-align: start;
+}
+
+@media screen and (max-width: 768px){
+    .formulario--input--padron {
+        width: 100%;
+        }
+}

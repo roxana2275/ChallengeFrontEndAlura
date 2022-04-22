@@ -1,0 +1,17 @@
+.formacion--titulo{
+
+    height: 25%;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+    padding-bottom: 3.25rem;
+    padding-top: 3.25rem;
+    font-weight: 700;
+    
+}
+
+@media screen and (max-width: 768px) {
+    .formacion--titulo{
+    font-size: 22px;
+    }
+}

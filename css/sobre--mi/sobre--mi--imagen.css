@@ -1,0 +1,9 @@
+.sobre--mi--imagen {
+    padding-right: 2rem;
+}
+
+@media screen and (max-width: 368px) {
+    .sobre--mi--imagen{
+    padding-top: 0rem;
+    }
+}

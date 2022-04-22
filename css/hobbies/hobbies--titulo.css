@@ -1,0 +1,14 @@
+.hobbies--titulo{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+    .hobbies--titulo{
+    font-size: 22px;
+    }
+}

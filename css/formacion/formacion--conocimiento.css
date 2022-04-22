@@ -1,0 +1,28 @@
+.formacion--conocimiento {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 176px;
+    height: 174px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background: white;
+}
+
+@media screen and (max-width: 360px) {
+    .hobbies--conocimiento{
+    width: 296px;
+    height: 118px;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .formacion--conocimiento{
+    width: 224px;
+    height: 118px;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    }
+}

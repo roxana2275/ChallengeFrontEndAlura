@@ -1,0 +1,10 @@
+.formulario--imagen {
+    width: 40%;
+}
+
+@media screen and (max-width: 768px){
+    .formulario--imagen {
+        display: none;
+        width: 0%;
+    }
+}

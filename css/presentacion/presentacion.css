@@ -1,0 +1,20 @@
+.presentacion {
+    background:#EAF2FD;
+    margin-right: 0px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+@media screen and (max-width: 360px) {
+    .presentacion{
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .presentacion{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

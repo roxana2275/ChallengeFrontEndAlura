@@ -1,0 +1,13 @@
+.formulario--contenido {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+@media screen and (max-width: 768px){
+    .formulario--contenido {
+        width: 100%;
+    }
+}
+
+

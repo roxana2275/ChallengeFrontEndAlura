@@ -1,0 +1,16 @@
+.presentacion--parrafo {
+    font-family: 'Raleway', sans-serif;
+    line-height: 30px;
+    font-size: 22px;
+    text-align: left;
+    margin-right: 50%;
+     margin-top: 8px
+}
+
+@media screen and (max-width: 768px) {
+    .presentacion--parrafo{
+        font-size: 14px;
+        margin-left: 0px;
+        margin-right: 0%;
+    }
+}

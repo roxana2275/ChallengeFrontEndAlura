@@ -1,0 +1,18 @@
+.cabecera a {
+    color:#464646;
+    font-family: 'Raleway', sans-serif;
+    margin-right: 1.25rem;
+    text-decoration: none;
+}
+
+.cabecera a#activo{
+    color:#464646;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+    .cabecera a {
+        font-size: 0.5rem;
+        padding-top: 0rem;
+    }
+}

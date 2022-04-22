@@ -1,0 +1,15 @@
+.presentacion--titulo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: left;
+    margin-top: 16px;
+    padding-top: 16px;
+}
+
+@media screen and (max-width: 768px) {
+    .presentacion--titulo{
+        font-size: 22px;
+        margin-left: 0px;
+    }
+}
